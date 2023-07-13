@@ -7,13 +7,13 @@ Civil engineer by training - software developer in the making....
 ## :wave: Hi everyone! 
 
 My name is Chris, I am a civil engineer with over 12 years experience in the field who is on the move to become a software developer.
-Feel free to explore my repositories and if You will find it interesting - do not hesitate and [contact me](#📧-contact). I am always open for a new challange. Cheers!
+Feel free to explore my repositories and if You will find it interesting - do not hesitate and contact me. I am always open for a new challange. Cheers!
 
 
 ## :man_technologist: More about me: 
 
   - I am a teamplayer with an open personality and strong selfdevelopment orientation who thrives on project oriented work  :climbing:
-  - I am currently working on completing my web developer portfolio with  various technologies used on both frontend and backend ( [see the project section](#💻-projects) ) :hourglass:
+  - I am currently working on completing my web developer portfolio with  various technologies used on both frontend and backend ( see the project section below ) :hourglass:
   - I also work on non-commercial projects but I am eager to any challange that regards commercial work :rocket:
   - I am a member of [CodersCrew][URLcodercrew] association where I work part-time as a junior web developer :muscle:
   - I love spending time with my family which always charges my batteries up :family: :battery: 
